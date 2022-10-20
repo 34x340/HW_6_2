@@ -1,0 +1,176 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+
+.body {
+  font-family: Roboto;
+  list-style: none;
+}
+
+/* лого */
+.header-logo {
+  text-decoration: none;
+  font-family: Raleway;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 1.19;
+  letter-spacing: 0.03em;
+  color: #000000;
+}
+
+.header-logoblue {
+  color: #2196f3;
+}
+
+/* хедер */
+
+.header-navigation .header-studio {
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.14;
+  letter-spacing: 0.02em;
+  color: #212121;
+}
+
+.header-navigation .header-studio:hover {
+  color: #2196f3;
+}
+
+.header-navigation .header-portfolio {
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.14;
+  letter-spacing: 0.02em;
+  color: #212121;
+}
+
+.header-navigation .portfolio:hover {
+  color: #2196f3;
+}
+
+.header-navigation .header-contacts {
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.14;
+  letter-spacing: 0.02em;
+  color: #212121;
+}
+
+.header-navigation .header-contacts:hover {
+  color: #2196f3;
+}
+
+.header-contact .header-mail {
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.14;
+  letter-spacing: 0.02em;
+  color: #757575;
+}
+
+.header-contact .header-mail:hover {
+  color: #2196f3;
+}
+
+.header-contact .header-tel {
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.14;
+  letter-spacing: 0.02em;
+  color: #757575;
+}
+
+.header-contact .header-tel:hover {
+  color: #2196f3;
+}
+
+.footer-adress {
+  text-decoration: none;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.71;
+  letter-spacing: 0.03em;
+  color: #757575;
+  font-style: normal;
+}
+
+/* конец хедера */
+
+/* мейн */
+
+.button .button-1 {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.62;
+  text-align: center;
+  letter-spacing: 0.03em;
+  color: #212121;
+  background: #f5f4fa;
+  border: 0;
+}
+
+.button .button-1:hover {
+  color: #ffffff;
+  background: #2196f3;
+}
+
+.header-list .header-texsts {
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 2;
+  letter-spacing: 0.06em;
+  color: #212121;
+}
+
+.header-list .header-desks {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.87;
+  letter-spacing: 0.03em;
+  color: #000000;
+}
+/* футер */
+
+.footer-logo {
+  text-decoration: none;
+  font-family: Raleway;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 1.19;
+  letter-spacing: 0.03em;
+  color: #000000;
+}
+
+.footer-logoblue {
+  color: #2196f3;
+}
+
+.footer-mail {
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.14;
+  letter-spacing: 0.02em;
+  color: #757575;
+}
+
+.footer-contact .footer-mail:hover {
+  color: #2196f3;
+}
+
+.footer-tel {
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.14;
+  letter-spacing: 0.02em;
+  color: #757575;
+}
+
+.footer-contact .footer-tel:hover {
+  color: #2196f3;
+}
